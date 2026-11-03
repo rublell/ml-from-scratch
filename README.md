@@ -1,4 +1,4 @@
-# ML - Predicting Gaming Addiction
+# Gaming Addiction Prediction
 
 Classic machine-learning models implemented **from scratch in NumPy** (no scikit-learn) and benchmarked on a gaming & mental-health dataset, on two tasks:
 
@@ -59,3 +59,7 @@ src/methods/knn.py
 src/methods/logistic_regression.py
 src/methods/linear_regression.py
 ```
+
+## Credits
+
+Built with two teammates.
