@@ -59,7 +59,3 @@ src/methods/knn.py
 src/methods/logistic_regression.py
 src/methods/linear_regression.py
 ```
-
-## Credits
-
-Built with two teammates.
