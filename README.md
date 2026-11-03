@@ -1,4 +1,4 @@
-# ML from Scratch — Predicting Gaming Addiction
+# ML - Predicting Gaming Addiction
 
 Classic machine-learning models implemented **from scratch in NumPy** (no scikit-learn) and benchmarked on a gaming & mental-health dataset, on two tasks:
 
